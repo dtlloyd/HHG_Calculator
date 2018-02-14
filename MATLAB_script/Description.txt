@@ -1,1 +1,3 @@
-Matlab script for GUI. 
+Matlab script for GUI.
+Keep this as the most up-to-date version.
+Run main_YI4_tidied.m with other files in the same directory.
