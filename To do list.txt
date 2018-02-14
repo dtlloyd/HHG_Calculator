@@ -1,0 +1,7 @@
+1. Upload supporting documentation.
+2. Check composition of figure of merit.
+3. Update list of assumptions.
+4. Disallow outrageous parameter values (?)
+5. Include an error message box.
+6. Defaul the gas species drop down list to blank.
+7. Include a "GO" button to update plots.
