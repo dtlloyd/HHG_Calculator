@@ -1,5 +1,5 @@
 1. Upload supporting documentation.
-2. Check composition of figure of merit.
+2. Check composition of figure of merit (e.g. \propto HHG pulse energy).
 3. Update list of assumptions.
 4. Disallow outrageous parameter values (?)
 5. Include an error message box.
